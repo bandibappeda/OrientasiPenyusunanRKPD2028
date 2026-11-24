@@ -7,7 +7,7 @@ Halaman pusat informasi dan tautan resmi (GitHub Pages) untuk agenda:
 - **Waktu:** 09.00 WIB s.d Selesai
 - **ID Meeting Zoom:** `984 2528 5233` (`98425285233`)
 - **Password:** `RKPD26`
-- **URL GitHub Pages:** `https://bandibappeda.github.io/OrientasiRKPD2028/`
+- **URL GitHub Pages:** `https://bandibappeda.github.io/OrientasiPenyusunanRKPD2028/`
 
 ## Cara Mengubah / Menambah Tautan Acara
 
@@ -22,7 +22,7 @@ Semua tautan acara (**Link Zoom**, **Materi**, **Link Absensi**, **Virtual Backg
 
 Meta tag `og:*` dan `twitter:*` di `index.html` sudah diarahkan ke:
 
-- `https://bandibappeda.github.io/OrientasiRKPD2028/`
-- `https://bandibappeda.github.io/OrientasiRKPD2028/og-image.jpg` (`1200 × 630` px, JPEG terkompresi optimal di bawah 300 KB untuk WhatsApp).
+- `https://bandibappeda.github.io/OrientasiPenyusunanRKPD2028/`
+- `https://bandibappeda.github.io/OrientasiPenyusunanRKPD2028/og-image.jpg` (`1200 × 630` px, JPEG terkompresi optimal di bawah 300 KB untuk WhatsApp).
 
-> **Catatan:** Jika nama repositori GitHub berbeda dari `OrientasiRKPD2028`, perbarui nilai URL pada `index.html` (tag `og:url`, `og:image`, `og:image:secure_url`, `twitter:image`, dan `canonical`) serta `pageUrl` di `config.js`.
+> **Catatan:** Jika nama repositori GitHub berbeda dari `OrientasiPenyusunanRKPD2028`, perbarui nilai URL pada `index.html` (tag `og:url`, `og:image`, `og:image:secure_url`, `twitter:image`, dan `canonical`) serta `pageUrl` di `config.js`.

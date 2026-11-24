@@ -12,7 +12,7 @@
  */
 window.EVENT_CONFIG = {
   // URL resmi GitHub Pages ini (digunakan saat berbagi undangan ke WhatsApp)
-  pageUrl: "https://bandibappeda.github.io/OrientasiRKPD2028/",
+  pageUrl: "https://bandibappeda.github.io/OrientasiPenyusunanRKPD2028/",
 
   // Detail agenda utama
   event: {
